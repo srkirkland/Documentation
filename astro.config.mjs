@@ -31,10 +31,6 @@ export default defineConfig({
             { label: "Getting Started", slug: "guides/getting-started" },
           ],
         },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
-        },
       ],
     }),
   ],

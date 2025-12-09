@@ -1,6 +1,10 @@
 ---
 title: Getting Started
 description: Download JSON Toolkit and start working with JSON in minutes.
+prev: false
+next:
+  link: /jsontoolkit/intro/
+  label: Product Overview
 ---
 
 Get up and running with JSON Toolkit in just a few steps.
