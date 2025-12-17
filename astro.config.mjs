@@ -25,6 +25,11 @@ export default defineConfig({
           collapsed: false,
         },
         {
+          label: "Calendars",
+          autogenerate: { directory: "calendars" },
+          collapsed: true,
+        },
+        {
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.

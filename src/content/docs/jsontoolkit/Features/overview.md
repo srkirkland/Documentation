@@ -1,5 +1,5 @@
 ---
-title: Features Overview
+title: Features
 description: Discover the key features and behaviors that make JSON Toolkit a powerful tool for working with JSON data.
 ---
 

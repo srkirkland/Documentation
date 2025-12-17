@@ -1,6 +1,12 @@
 ---
 title: Product Overview
 description: Understand what JSON Toolkit is, who it serves, and the core behaviors that make editing and inspecting JSON feel fast and safe.
+prev:
+  link: /guides/getting-started/
+  label: Getting Started
+next:
+  link: /jsontoolkit/features/overview
+  label: Features
 ---
 
 ## What JSON Toolkit is
