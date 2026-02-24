@@ -16,11 +16,11 @@ Use **File → Anonymize to New Window** (or **Shift+Cmd+A**) to sanitize sensit
    - **Seed** (optional deterministic output)
 4. Click **Anonymize To New Window**.
 
-![Anonymize modal configured with preserve/linked keys and seed](./anonymize-modal-filled.png)
+<img src="/jsontoolkit/features/anonymize-modal-filled.png" alt="Anonymize modal configured with preserve/linked keys and seed" />
 
 A new window opens with anonymized JSON content so your original payload remains unchanged.
 
-![Resulting anonymized payload in a new JSON Toolkit window](./anonymize-result-window.png)
+<img src="/jsontoolkit/features/anonymize-result-window.png" alt="Resulting anonymized payload in a new JSON Toolkit window" />
 
 ## Practical tips
 

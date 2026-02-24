@@ -12,7 +12,7 @@ JSON Toolkit validates your input continuously with `jsonc-parser` as you type.
 - Use **Jump to error** to move the editor caret directly to the failing token.
 - The tree view only renders once your input parses successfully.
 
-![Validation error state with line/column feedback and Jump to error](./validation-error-workflow.png)
+<img src="/jsontoolkit/features/validation-error-workflow.png" alt="Validation error state with line/column feedback and Jump to error" />
 
 ## Notes
 

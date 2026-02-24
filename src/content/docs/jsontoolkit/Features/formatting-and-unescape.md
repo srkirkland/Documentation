@@ -15,7 +15,7 @@ The editor toolbar is designed for quick cleanup and conversion workflows.
 
 Start with regular JSON in the editor:
 
-![Original JSON payload before escaping](./escape-unescape-original.png)
+<img src="/jsontoolkit/features/escape-unescape-original.png" alt="Original JSON payload before escaping" />
 
 ```json
 {
@@ -29,7 +29,7 @@ Start with regular JSON in the editor:
 
 In the Mac app, **Edit → Escape JSON** converts that into a JSON string payload:
 
-![Escaped form of the same JSON payload](./escape-unescape-escaped.png)
+<img src="/jsontoolkit/features/escape-unescape-escaped.png" alt="Escaped form of the same JSON payload" />
 
 ```json
 "{\n  \"id\": 42,\n  \"name\": \"Scott Kirkland\",\n  \"email\": \"scott@example.com\",\n  \"roles\": [\"admin\", \"editor\"],\n  \"createdAt\": \"2026-02-24T19:00:00Z\"\n}"
@@ -37,7 +37,7 @@ In the Mac app, **Edit → Escape JSON** converts that into a JSON string payloa
 
 When that escaped form is present, **Unescape** appears in the toolbar. Clicking it restores the same editable JSON structure:
 
-![Unescaped payload restored back to editable JSON](./escape-unescape-unescaped.png)
+<img src="/jsontoolkit/features/escape-unescape-unescaped.png" alt="Unescaped payload restored back to editable JSON" />
 
 ## Desktop menu companion
 

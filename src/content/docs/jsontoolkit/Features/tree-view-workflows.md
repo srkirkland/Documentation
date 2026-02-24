@@ -11,7 +11,7 @@ Once JSON is valid, the right panel shows an interactive tree representation.
 - **Sort keys (A→Z)** toggle for deterministic object inspection.
 - Optional display settings for data types, child counts, and long-string trimming.
 
-![Tree view controls with expanded JSON structure](./tree-view-controls.png)
+<img src="/jsontoolkit/features/tree-view-controls.png" alt="Tree view controls with expanded JSON structure" />
 
 ## Practical tips
 

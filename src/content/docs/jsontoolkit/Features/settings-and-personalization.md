@@ -5,7 +5,7 @@ description: Customize appearance, formatting behavior, and tree rendering defau
 
 Open settings from the top-right gear icon to tune JSON Toolkit behavior.
 
-![Settings modal showing appearance, formatting, and tree options](./settings-modal.png)
+<img src="/jsontoolkit/features/settings-modal.png" alt="Settings modal showing appearance, formatting, and tree options" />
 
 ## Key options
 
