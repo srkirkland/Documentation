@@ -14,7 +14,7 @@ The Diff Viewer opens a dedicated side-by-side comparison workspace so you can r
 
 ## Example: before and after
 
-Start in Diff view (`?view=diff`) and paste JSON into both panes.
+In the Mac app, open Diff Viewer from **File → Open Diff Viewer** (or press **Shift+Cmd+D**), then paste JSON into both panes.
 
 ![Empty diff viewer ready for input](./diff-viewer-empty.png)
 
