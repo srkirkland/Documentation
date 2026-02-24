@@ -28,6 +28,12 @@ description: Discover the key features and behaviors that make JSON Toolkit a po
 - Anonymizer uses faker data; linked keys share deterministic replacements, and numeric fuzzing is optional.
 - Escape/Unescape and Diff actions re-run validation so status and tree stay trustworthy after conversions.
 
+## Diff viewer
+
+- Compare two JSON documents side-by-side in a dedicated workspace.
+- Each side validates independently, with parse feedback inline.
+- See full walkthrough: [Diff Viewer](/jsontoolkit/features/diff-viewer/).
+
 ## Windowing and bootstrap flows
 
 - New windows inherit the current size/position with a small offset. Handy so you don't misplace them.
