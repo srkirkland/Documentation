@@ -11,15 +11,33 @@ The editor toolbar is designed for quick cleanup and conversion workflows.
 - **Minify**: collapse valid JSON into compact one-line form.
 - **Unescape**: appears automatically when the editor detects escaped JSON content.
 
-### Example: escaped payload → editable JSON
+### Example: same payload, escaped and unescaped
 
-When the input looks like an escaped payload, JSON Toolkit reveals **Unescape**.
+Start with regular JSON in the editor:
 
-![Escaped JSON with Unescape available](./unescape-before.png)
+![Original JSON payload before escaping](./escape-unescape-original.png)
 
-After clicking **Unescape**, the payload is converted into normal editable JSON.
+```json
+{
+  "id": 42,
+  "name": "Scott Kirkland",
+  "email": "scott@example.com",
+  "roles": ["admin", "editor"],
+  "createdAt": "2026-02-24T19:00:00Z"
+}
+```
 
-![Unescaped JSON rendered in normal editor form](./unescape-after.png)
+In the Mac app, **Edit → Escape JSON** converts that into a JSON string payload:
+
+![Escaped form of the same JSON payload](./escape-unescape-escaped.png)
+
+```json
+"{\n  \"id\": 42,\n  \"name\": \"Scott Kirkland\",\n  \"email\": \"scott@example.com\",\n  \"roles\": [\"admin\", \"editor\"],\n  \"createdAt\": \"2026-02-24T19:00:00Z\"\n}"
+```
+
+When that escaped form is present, **Unescape** appears in the toolbar. Clicking it restores the same editable JSON structure:
+
+![Unescaped payload restored back to editable JSON](./escape-unescape-unescaped.png)
 
 ## Desktop menu companion
 

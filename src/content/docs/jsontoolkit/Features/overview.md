@@ -9,6 +9,7 @@ description: Discover the key features and behaviors that make JSON Toolkit a po
 - [Formatting, Minify, and Unescape](/jsontoolkit/features/formatting-and-unescape/)
 - [Tree View Workflows](/jsontoolkit/features/tree-view-workflows/)
 - [Settings & Personalization](/jsontoolkit/features/settings-and-personalization/)
+- [Anonymize to New Window](/jsontoolkit/features/anonymize-to-new-window/)
 - [Diff Viewer](/jsontoolkit/features/diff-viewer/)
 - [Desktop Menu & Shortcuts](/jsontoolkit/features/desktop-menu-and-shortcuts/)
 
