@@ -3,6 +3,16 @@ title: Features
 description: Discover the key features and behaviors that make JSON Toolkit a powerful tool for working with JSON data.
 ---
 
+## Feature deep dives
+
+- [Validation & Error Navigation](/jsontoolkit/features/validation-and-error-navigation/)
+- [Formatting, Minify, and Unescape](/jsontoolkit/features/formatting-and-unescape/)
+- [Tree View Workflows](/jsontoolkit/features/tree-view-workflows/)
+- [Settings & Personalization](/jsontoolkit/features/settings-and-personalization/)
+- [Anonymize to New Window](/jsontoolkit/features/anonymize-to-new-window/)
+- [Diff Viewer](/jsontoolkit/features/diff-viewer/)
+- [Desktop Menu & Shortcuts](/jsontoolkit/features/desktop-menu-and-shortcuts/)
+
 ## Validation and feedback loop
 
 - Every edit runs through `jsonc-parser` so validation occurs in real-time.
