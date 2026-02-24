@@ -18,9 +18,9 @@ Start in Diff view (`?view=diff`) and paste JSON into both panes.
 
 ![Empty diff viewer ready for input](./diff-viewer-empty.png)
 
-After adding both versions, JSON Toolkit highlights exactly what changed.
+After adding both versions, click **Format both** to normalize JSON on each side, then review the highlighted changes.
 
-![Diff viewer with populated original and modified JSON](./diff-viewer-example.png)
+![Diff viewer with populated original and modified JSON after using Format both](./diff-viewer-example.png)
 
 ## Tips
 
